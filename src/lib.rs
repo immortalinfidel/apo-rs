@@ -1,6 +1,7 @@
+#![feature(external_doc)]
 use ema_rs::EMA;
 use ta_common::traits::Indicator;
-
+#[doc(include = "../README.md")]
 pub struct APO {
     long_ema: EMA,
     short_ema: EMA,
