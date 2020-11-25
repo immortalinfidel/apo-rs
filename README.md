@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/immortalinfidel/apo-rs.svg?branch=master)](https://travis-ci.com/immortalinfidel/apo-rs)
+
 # Absolute Price Oscillator (APO)
 ```
 use ta_common::traits::Indicator;
